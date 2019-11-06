@@ -1,6 +1,6 @@
 '''
 This module contains functions that check a DataFrame for various
-attribuets.
+attributes.
 '''
 import csv_to_df
 
